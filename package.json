@@ -1,0 +1,20 @@
+{
+  "name": "test-netlify-plugin",
+  "version": "1.0.0",
+  "description": "Example netlify plugin for removing install files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kwajiehao/test-netlify-plugin.git"
+  },
+  "keywords": ["netlify", "netlify-plugin", "plugins", "build"],
+  "author": "Kwa Jie Hao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kwajiehao/test-netlify-plugin/issues"
+  },
+  "homepage": "https://github.com/kwajiehao/test-netlify-plugin#readme"
+}
