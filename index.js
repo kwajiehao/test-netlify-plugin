@@ -1,5 +1,5 @@
 module.exports = {
-    onInit: () => {
+    onPreBuild: () => {
       console.log('onInit: I run before anything else 🐣');
     },
   };
